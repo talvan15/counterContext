@@ -38,8 +38,8 @@ Este é um app simples de **contador** criado com **React Native + Expo**, utili
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/contador-context.git
-cd contador-context
+git clone https://github.com/talvan15/counterContext.git
+cd counterContext
 
 ## 📦 Instalação
 
